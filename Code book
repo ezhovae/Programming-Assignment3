@@ -1,0 +1,152 @@
+These variables identify the unique subject/activity pair the variables relate to:
+
+activity: the string activity name. The possible values are:
+Walking
+Walking Upstairs
+Walking Downstairs
+Sitting
+Standing
+Laying
+Measurement Means
+
+subject: the integer subject ID.
+
+All variables below are the mean of a measurement for each subject and activity. 
+
+Time domain body acceleration mean along X, Y, and Z:
+
+TimeBodyAccMeanX
+TimeBodyAccMeanZ
+TimeBodyAccMeanY
+
+Time domain body acceleration standard deviation along X, Y, and Z:
+TimeBodyAccStdDevX
+TimeBodyAccStdDevY
+TimeBodyAccStdDevZ
+
+Time domain gravity acceleration mean along X, Y, and Z:
+TimeGravityAccMeanX
+TimeGravityAccMeanY
+TimeGravityAccMeanZ
+
+Time domain gravity acceleration standard deviation along X, Y, and Z:
+
+TimeGravityAccStdDevX
+TimeGravityAccStdDevY
+TimeGravityAccStdDevZ
+
+Time domain body jerk mean along X, Y, and Z:
+TimeBodyAccJerkMeanX
+TimeBodyAccJerkMeanY
+TimeBodyAccJerkMeanZ
+
+Time domain body jerk standard deviation along X, Y, and Z:
+TimeBodyAccJerkStdDevX
+TimeBodyAccJerkStdDevY
+TimeBodyAccJerkStdDevZ
+
+Time domain gyroscope mean along X, Y, and Z:
+MeanTimeBodyGyroMeanX
+MeanTimeBodyGyroMeanY
+MeanTimeBodyGyroMeanZ
+
+Time domain gyroscope standard deviation along X, Y, and Z:
+TimeBodyGyroMeanX
+TimeBodyGyroMeanY
+TimeBodyGyroMeanZ
+
+Time domain gyroscope jerk mean along X, Y, and Z:
+
+TimeBodyGyroJerkMeanX
+TimeBodyGyroJerkMeanY
+TimeBodyGyroJerkMeanZ
+
+
+Time domain gyroscope jerk standard deviation along X, Y, and Z:
+TimeBodyGyroStdDevX
+TimeBodyGyroStdDevY
+TimeBodyGyroStdDevZ
+
+Time domain body acceleration magnitude mean:
+TimeBodyAccMagMean
+
+Time domain body acceleration magnitude standard deviation:
+TimeBodyAccMagStdDev
+
+Time domain gravity acceleration magnitude mean:
+TimeGravityAccMagMean
+
+Time domain gravity acceleration magnitude standard deviation:
+TimeGravityAccMagStdDev
+
+Time domain body jerk magnitude mean:
+TimeBodyAccJerkMagMean
+
+Time domain body jerk magnitude standard deviation:
+TimeBodyAccJerkMagStdDev
+
+Time domain gyroscope magnitude mean:
+TimeBodyGyroMagMean
+
+Time domain gyroscope magnitude standard deviation:
+TimeBodyGyroMagStdDev
+
+Time domain gyroscope jerk magnitude mean:
+TimeBodyGyroJerkMagMean
+
+Time domain gyroscope jerk magnitude standard deviation:
+TimeBodyGyroJerkMagStdDev
+
+Frequency domain body acceleration mean along X, Y, and Z:
+FrequencyBodyAccMeanX
+FrequencyBodyAccMeanY
+FrequencyBodyAccMeanZ
+
+Frequency domain body acceleration standard deviation along X, Y, and Z:
+FrequencyBodyAccStdDevX
+FrequencyBodyAccStdDevY
+FrequencyBodyAccStdDevZ
+
+Frequency domain body jerk mean along X, Y, and Z:
+FrequencyBodyAccJerkMeanX
+FrequencyBodyAccJerkMeanY
+FrequencyBodyAccJerkMeanZ
+
+Frequency domain body jerk standard deviation along X, Y, and Z:
+FrequencyBodyAccJerkStdDevX
+FrequencyBodyAccJerkStdDevY
+FrequencyBodyAccJerkStdDevZ
+
+Frequency domain gyroscope mean along X, Y, and Z:
+FrequencyBodyGyroMeanX
+FrequencyBodyGyroMeanY
+FrequencyBodyGyroMeanZ
+
+Frequency domain gyroscope standard deviation along X, Y, and Z:
+FrequencyBodyGyroStdDevX
+FrequencyBodyGyroStdDevY
+FrequencyBodyGyroStdDevZ
+
+Frequency domain body acceleration magnitude mean:
+FrequencyBodyAccMagMean
+
+Frequency domain body acceleration magnitude standard deviation:
+FrequencyBodyAccMagStdDev
+
+Frequency domain body jerk magnitude mean:
+FrequencyBodyAccJerkMagMean
+
+Frequency domain body jerk magnitude standard deviation:
+FrequencyBodyAccJerkMagStdDev
+
+Frequency domain gyroscope magnitude mean:
+FrequencyBodyGyroMagMean
+
+Frequency domain gyroscope magnitude standard deviation:
+FrequencyBodyGyroMagStdDev
+
+Frequency domain gyroscope jerk magnitude mean:
+FrequencyBodyGyroJerkMagMean
+
+Frequency domain gyroscope jerk magnitude standard deviation:
+FrequencyBodyGyroJerkMagStdDev
